@@ -25,4 +25,4 @@
 ---
 # Summary:
 ## When comparing our data, there were suttle differences between the two seasons with more mild temperatures in the winter months, however, there was not enough variance in the temperatures to make this shop seasonal. 
-# Conclusion: The Surfs-up: Surf and Ice Cream shop should benefit from year round sells for both its ice cream and supplying surfing equipment all year long. 
+## Conclusion: The Surfs-up: Surf and Ice Cream shop should benefit from year round sells for both its ice cream and supplying surfing equipment all year long. 
