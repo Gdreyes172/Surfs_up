@@ -1,6 +1,6 @@
 # Surfs_up
 ## Overview: 
-### This project was to identify the climate trends and use the data to identify whether a surf and ice cream shop should be open all year or during certain seasons of the year. 
+### The purpose of this project was to identify whether a surf and ice cream shop should be open all year or during certain seasons of the year. 
 ---
 # Results 
 ## Breakdown: Our analysis focused on a years worth of data from August 2016 - August 2017. Below is our findings.
