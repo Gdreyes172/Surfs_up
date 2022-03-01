@@ -21,7 +21,7 @@
 ## December Temps
 ![Figure_3](https://github.com/Gdreyes172/Surfs_up/blob/main/Resources/Dec_temps.png)
 #### Figure3: December Temperature Statistics
-### As assumed the December temperatures per Figure3 were slightly lower than our summer temperatures. They averaged at about 71F with a max temperature of about 83F and a minimum temp of about 56F.
+### * As assumed the December temperatures per Figure3 were slightly lower than our summer temperatures. They averaged at about 71F with a max temperature of about 83F and a minimum temp of about 56F.
 ---
 # Summary:
 ## When comparing our data, there were suttle differences between the two seasons with more mild temperatures in the winter months, however, there was not enough variance in the temperatures to make this shop seasonal. 
