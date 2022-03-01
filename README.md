@@ -1,21 +1,26 @@
 # Surfs_up
 ## Overview: 
-### The goal of this project was to create a database for Amazing Prime's Hack-a-thon by using web-based databases and using the extraction, translate, and load paradigm to create clean and usable data.
-## Purpose: 
-### Using Jupyter Notebook, PgAdmin, and Web-based databases we will create the data sets for Amazing Prime to use in their Hack-a-thon that will help them identify an algorithm that can predict which low-budget film will be a success. 
+### This project was to identify the climate trends and use the data to identify whether a surf and ice cream shop should be open all year or during certain seasons of the year. 
 ---
-# Results: 
-![Figure_1](https://github.com/Gdreyes172/Surfs_up/blob/main/Resources/Dec_temps.png)
-### June Temperatures description:
-## After filtering for recent dates at the beginning of summer we were able to identify average temperatures of about 75F. 
-###
-## 
+# Results 
+## Breakdown: Our analysis focused on a years worth of data from August 2016 - August 2017. Below is our findings.
+---
+## Rain analysis
+![Oahua_Rain_Data](https://github.com/Gdreyes172/Surfs_up/blob/main/Resources/Oahua_Rain_Data.png)
+![Stats](https://github.com/Gdreyes172/Surfs_up/blob/main/Resources/Rain_Stats.png)
+---
+## Temperature analysis
+### We first looked at the rain data and if it should be a concern. Based on our results, there is often less than 1 inch of rain throughout the island. We feel confident that based on our rain fall analysis that we then focus on the temperature of each site.
+![Figure_1](https://github.com/Gdreyes172/Surfs_up/blob/main/Resources/June_temps.png)
+![Figure_2](https://github.com/Gdreyes172/Surfs_up/blob/main/Resources/June_plot.png)
+#### June Temperatures at our most Active site:
+### After identifying our most active site, we then looked to see how the temperatures varied. Our June temperatures per Figure1 averaged about 75F with a max temperature of about 85F and a minimum temp of about 64F.
 
----
-
----
-![Figure_2](https://github.com/Gdreyes172/Movies-ETL/blob/main/Resources/ratings_query.png)
-### Ratings results on SQL
+![Figure_3](https://github.com/Gdreyes172/Surfs_up/blob/main/Resources/Dec_temps.png)
+![Figure_4](https://github.com/Gdreyes172/Surfs_up/blob/main/Resources/December_plot.png)
+#### December Temperatures at our most Active site:
+### As assumed the December temperatures per Figure3 were slightly lower than our summer temperatures. They averaged at about 71F with a max temperature of about 83F and a minimum temp of about 56F.
 ---
 # Summary:
-## The data was ultimately transferred to SQL tables for Amazing Prime to inspect and present at their event. 
+## When comparing our data, there were suttle differences between the two seasons with more mild temperatures in the winter months, however, there was not enough variance in the temperatures to make this shop seasonal. 
+# Conclusion: The Surfs-up: Surf and Ice Cream shop should benefit from year round sells for both its ice cream and supplying surfing equipment all year long. 
